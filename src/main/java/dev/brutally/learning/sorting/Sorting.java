@@ -1,4 +1,4 @@
-package sorting;
+package dev.brutally.learning.sorting;
 
 import java.util.*;
 
